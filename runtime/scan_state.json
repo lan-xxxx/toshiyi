@@ -1,0 +1,5 @@
+{
+  "last_scan_at": null,
+  "last_seen_issue_updated_at": null,
+  "notes": "Non-secret cursor for scheduled issue scanning. Do not store tokens here."
+}
