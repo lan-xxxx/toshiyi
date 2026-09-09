@@ -6,7 +6,7 @@
 - 状态：`status/prd-draft` + `status/need-info`
 - 来源：想想转述曾皙反馈
 - 写入位置：`issues/prd-draft/web-ios-conversation-list-visual-separation.md`
-- GitHub issue：待创建（当前环境缺少可用 GitHub 写入凭证/CLI，见 blocker）
+- GitHub issue：#6 https://github.com/lan-xxxx/toshiyi/issues/6
 
 ## 背景和用户场景
 
@@ -65,4 +65,4 @@
 
 ## Blocker
 
-当前运行环境未发现 `gh`/`hub`/`glab`，也未发现可用于 GitHub Issue 写入的 token 环境变量；因此暂时无法直接创建 GitHub issue。已先写入本地需求池草稿，待 GitHub 写入能力可用后同步创建 issue 并回填 issue URL。
+无。GitHub issue 已创建并回填。
